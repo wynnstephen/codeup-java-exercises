@@ -1,9 +1,8 @@
-public class StringsLecture {
-}
-
 import java.util.Scanner;
-public class Strings {
-    public static void main(String[] args) {
+
+public class StringsLecture {
+
+        public static void main (String[]args){
         Scanner sc = new Scanner(System.in);
         String[] studentsArr =
                 {"Amado", "Christian", "Christopher", "Corey", "Demetrio",
@@ -17,11 +16,6 @@ public class Strings {
         /* your code goes here */
     }
 }
-
-
-
-
-
 
 
 //        warmup:
