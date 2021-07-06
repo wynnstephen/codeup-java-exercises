@@ -1,6 +1,18 @@
 public class SyntaxTypesVariables {
 
     public static void main(String[] args) {
+        System.out.println("Hello, world");
+
+        int myFavoriteNumber = 420;
+        System.out.println(myFavoriteNumber);
+
+//        myString = 3.14159;
+//
+//        long myNumber;
+//        myNumber = 3.14159;
+
+
+        
 
 //        byte myFirstNumber = 127;
 //        byte mySecondNumber = 1;
@@ -13,7 +25,6 @@ public class SyntaxTypesVariables {
 //
 //2.        System.out.println(myFavoriteNumber);
 
-        char
 
     }
 
