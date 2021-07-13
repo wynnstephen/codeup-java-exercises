@@ -8,9 +8,13 @@ public class MethodExercises {
         System.out.println(integerMultiplacation(5, 5));
         System.out.println(integerDivison(5, 5));
         System.out.println(integerModulus(10, 0));
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("Enter an int between 1 to 10.");
     }
 
-    private static int integerAddition(int num1, int num2) {
+    public static int integerAddition(int num1, int num2) {
         return num1 + num2;
     }
 
